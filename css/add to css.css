@@ -1,0 +1,28 @@
+body{
+    background: chartreuse;
+    background-image: url("imgs/LOGO PMC.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: red;
+    font-size: 50px;
+    font-family: "Times New Roman ";
+    font-weight: revert;
+    line-height: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+p{
+    font-size: 20px;
+    color: firebrick;
+    line-height: 1.5;
+    width: 600px;
+    text-align: -moz-center ;
+    background: none;
+    border: 1px solid firebrick;
+    text-shadow: 3px 3px 5px black;
+}
+img{
+    max-width: 100%;
+}
